@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Introduction
-Welcome to my app PhasmAid. I am committed to protecting your personal data and respecting your privacy. This Privacy Policy explains how I collect, use, and manage the information about you when you use my app.
+Welcome to my app Ghost Tracker. I am committed to protecting your personal data and respecting your privacy. This Privacy Policy explains how I collect, use, and manage the information about you when you use my app.
 
 ## Information Collection and Use
 While using my app, I may ask you to provide me with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to:
